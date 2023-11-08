@@ -1,6 +1,6 @@
 # curly-potato-g1
 
-# cleberg - aimerance - honore
+# Theodore
 
 Reproduire la maquette (maquette.jpeg) au millimètre près
 
